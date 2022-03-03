@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/est5/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/est5/testing-practice/issues"
+  },
+  "homepage": "https://github.com/est5/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
